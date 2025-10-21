@@ -1,5 +1,5 @@
-🚀 University Project - Setup Guide
-Quick Start
+# University Project - Setup Guide
+# Quick Start
 1. Clone the Repository
 bash
 git clone https://github.com/hayat-hani/University-Project.git
